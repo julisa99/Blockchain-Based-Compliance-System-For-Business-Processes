@@ -1,0 +1,187 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h1{
+  background-color: lightgrey;
+}
+
+input{
+  max-width: 80px;
+}
+
+button {
+  position: absolute;
+  width: 50.4834px;
+  height: 40.5px;
+  border: none;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+
+#state1,
+#state4,
+#state7,
+#state11,
+#state14,
+#state17,
+#state19,
+#state20 {
+  width: 15.5167px;
+  height: 15.5167px;
+  border-radius: 100%;
+}
+
+#state1{
+  left: 98px;
+  top: 173px;
+}
+
+#state2{
+  left: 136px;
+  top: 159px;
+}
+
+#state3{
+  left: 261px;
+  top: 159px;
+}
+
+#state4{
+  left: 460px;
+  top: 35px;
+}
+
+#state5{
+  left: 333px;
+  top: 159px;
+}
+
+#state6{
+  left: 405px;
+  top: 159px;
+}
+
+#state7{
+  left: 617px;
+  top: 223px;
+}
+
+#state8{
+  left: 645px;
+  top: 211px;
+}
+
+#state9{
+  left: 712px;
+  top: 211px;
+}
+
+#state10{
+  left: 785px;
+  top: 211px;
+}
+
+#state11{
+  left: 858px;
+  top: 223px;
+}
+
+#state13{
+  left: 547px;
+  top: 80px;
+}
+
+#state14{
+  left: 563px;
+  top: 143px;
+}
+
+#state15{
+  left: 645px;
+  top: 98px;
+}
+
+#state16{
+  left: 759px;
+  top: 98px;
+}
+
+#state17{
+  left: 858px;
+  top: 110px;
+}
+
+#state19{
+  left: 588px;
+  top: 110px;
+}
+
+#state20{
+  left: 250px;
+  top: 123px;
+}
+
+#reset {
+position: static;
+  width: 200px;
+  background-color: #0099cc;
+  padding: 5px 10px;
+  border: 2px solid black;
+  color: black;
+}
+
+#reset:hover {
+  border: 2px solid #0066cc;
+  background-color: #cccccc;
+}
+
+#both{
+  position: relative;
+}
+
+#leftSpan{
+  float: left;
+  padding: 20px 55px;
+  max-width: 200px;
+}
+
+#rightSpan {
+  position: relative;
+  float: right;
+  padding: 20px 50px;
+}
+
+#universality-error {
+  color: orange;
+}

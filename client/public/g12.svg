@@ -1,0 +1,4114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:oryx="http://oryx-editor.org"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   generated="java"
+   height="292.61691"
+   id="svg-canvas"
+   oryx:signavioversion="12.10.1"
+   version="1.1"
+   width="850"
+   sodipodi:docname="g12.svg"
+   inkscape:version="0.92.0 r15299"
+   inkscape:export-filename="C:\Users\Liza\Desktop\Uebungen\MASTER\blockchain_BPM\final_vortrag\g122.png"
+   inkscape:export-xdpi="278"
+   inkscape:export-ydpi="278">
+  <metadata
+     id="metadata2123">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview2121"
+     showgrid="false"
+     inkscape:zoom="1.6014948"
+     inkscape:cx="567.21129"
+     inkscape:cy="137.09899"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g853"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs168">
+    <marker
+       id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1start"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1arrowhead"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1arrowhead2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-754e464e-9c98-42bf-93c6-df28b6680230start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-754e464e-9c98-42bf-93c6-df28b6680230start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-754e464e-9c98-42bf-93c6-df28b6680230end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-754e464e-9c98-42bf-93c6-df28b6680230arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-754e464e-9c98-42bf-93c6-df28b6680230end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-754e464e-9c98-42bf-93c6-df28b6680230arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-ed610013-e345-449c-8f91-3dea26bae3f6start"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-ed610013-e345-449c-8f91-3dea26bae3f6arrowhead"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-ed610013-e345-449c-8f91-3dea26bae3f6end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-ed610013-e345-449c-8f91-3dea26bae3f6arrowhead2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88bestart"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88bestart_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88beend"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88bearrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88beend_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88bearrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-e640c78d-5863-4836-8e73-79d8a5bed944start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-e640c78d-5863-4836-8e73-79d8a5bed944start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-e640c78d-5863-4836-8e73-79d8a5bed944end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-e640c78d-5863-4836-8e73-79d8a5bed944arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-e640c78d-5863-4836-8e73-79d8a5bed944end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-e640c78d-5863-4836-8e73-79d8a5bed944arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-17f616db-c855-44b9-bdf5-d08c29bad54astart"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-17f616db-c855-44b9-bdf5-d08c29bad54aarrowhead"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-17f616db-c855-44b9-bdf5-d08c29bad54aend"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-17f616db-c855-44b9-bdf5-d08c29bad54aarrowhead2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-47e80f1d-6180-4c59-9d16-3b70d5915088end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-47e80f1d-6180-4c59-9d16-3b70d5915088arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-867e8d3d-1b16-4565-8a57-9825ac95086cend"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-867e8d3d-1b16-4565-8a57-9825ac95086carrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fstart"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fstart_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fend"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32farrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fend_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32farrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-530d8509-f93f-4723-ab6a-7e92087468d1end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-530d8509-f93f-4723-ab6a-7e92087468d1arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-3dd1eb2e-044f-44cc-ae99-b5ab77304537end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-3dd1eb2e-044f-44cc-ae99-b5ab77304537arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-e535add6-1dbf-485b-b004-444a498ac135end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-e535add6-1dbf-485b-b004-444a498ac135arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-35ef3f28-06cc-4196-a802-728ff360675aend"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-35ef3f28-06cc-4196-a802-728ff360675aarrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-8ccd4735-023d-40b5-8a01-9b4956b8f7b5end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-8ccd4735-023d-40b5-8a01-9b4956b8f7b5arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-6f737c26-618a-44cd-a98e-6857fd7ade14end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-6f737c26-618a-44cd-a98e-6857fd7ade14arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2start"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2arrowhead"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2arrowhead2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1astart"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1astart_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1aend"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1aarrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1aend_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1aarrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982bstart"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982bstart_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982bend"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982barrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982bend_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982barrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8dstart"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8darrowhead"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8dend"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8darrowhead2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-0d38c027-ba53-41bf-99cb-7192c3a74d43start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-0d38c027-ba53-41bf-99cb-7192c3a74d43start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-0d38c027-ba53-41bf-99cb-7192c3a74d43end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-0d38c027-ba53-41bf-99cb-7192c3a74d43arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-0d38c027-ba53-41bf-99cb-7192c3a74d43end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-0d38c027-ba53-41bf-99cb-7192c3a74d43arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-d7f0729a-cd58-4d4d-8428-8817f73cc9f5end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-d7f0729a-cd58-4d4d-8428-8817f73cc9f5arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-7fc16892-b90d-4fac-844b-ca9fdf4d5ef1end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-7fc16892-b90d-4fac-844b-ca9fdf4d5ef1arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358start"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358arrowhead"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358arrowhead2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afstart"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afstart_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afend"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afarrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afend_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afarrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-80f58568-651e-4a05-b69d-2bd7fea14b84start"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-80f58568-651e-4a05-b69d-2bd7fea14b84arrowhead"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-80f58568-651e-4a05-b69d-2bd7fea14b84end"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-80f58568-651e-4a05-b69d-2bd7fea14b84arrowhead2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5">
+      <path
+         d="m 5,0 6,10"
+         display="inherit"
+         id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9default"
+         inkscape:connector-curvature="0"
+         style="display:inherit;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    </marker>
+    <marker
+       id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="m 5,0 6,10"
+         display="inherit"
+         id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9default_shadow"
+         inkscape:connector-curvature="0"
+         style="display:inherit;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <marker
+       id="sid-9556bf22-2c86-474d-b4ef-c843427b353dend"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10"
+         id="sid-9556bf22-2c86-474d-b4ef-c843427b353darrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-da085975-085b-446e-8692-cdef587add38start"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5" />
+    <marker
+       id="sid-da085975-085b-446e-8692-cdef587add38start_shadow"
+       markerHeight="11"
+       markerUnits="userSpaceOnUse"
+       markerWidth="17"
+       orient="auto"
+       refX="1"
+       refY="5"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7" />
+    <marker
+       id="sid-da085975-085b-446e-8692-cdef587add38end"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-da085975-085b-446e-8692-cdef587add38arrowhead"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="sid-da085975-085b-446e-8692-cdef587add38end_shadow"
+       markerHeight="16"
+       markerUnits="userSpaceOnUse"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="8"
+       style="stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-opacity:0.7">
+      <path
+         d="M 0,3 15,8 0,13 Z"
+         id="sid-da085975-085b-446e-8692-cdef587add38arrowhead_shadow"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#sid-f1837c14-41f4-403a-8724-1f6a0d09be90background"
+       id="radialGradient2125"
+       cx="-0.26404864"
+       cy="88.88192"
+       fx="179.39339"
+       fy="88.88192"
+       r="898.28717"
+       gradientTransform="matrix(1.8935905,0,0,0.52809728,27,136.191)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#sid-f1837c14-41f4-403a-8724-1f6a0d09be90background"
+       id="radialGradient2127"
+       cx="-1.9559318"
+       cy="11.998961"
+       fx="22.297623"
+       fy="11.998961"
+       r="121.26777"
+       gradientTransform="matrix(0.25563263,0,0,3.9118637,27,136.191)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#sid-f1837c14-41f4-403a-8724-1f6a0d09be90background"
+       id="radialGradient2129"
+       cx="-1.9559318"
+       cy="11.998961"
+       fx="22.297623"
+       fy="11.998961"
+       r="121.26777"
+       gradientTransform="matrix(0.25563263,0,0,3.9118637,27,136.191)"
+       gradientUnits="userSpaceOnUse" />
+    <defs
+       id="defs176">
+      <radialGradient
+         r="1"
+         id="sid-f1837c14-41f4-403a-8724-1f6a0d09be90background"
+         fy="0.1"
+         fx="0.2"
+         cy="0.1"
+         cx="0">
+        <stop
+           id="stop172"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-f1837c14-41f4-403a-8724-1f6a0d09be90fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs1241">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(6.6579073,0,0,0.15019734,27,25)"
+         r="255.48389"
+         id="sid-65894c41-190b-4547-914a-474f1db3b087background"
+         fy="22.219435"
+         fx="25.473289"
+         cy="22.219435"
+         cx="25.473289">
+        <stop
+           id="stop1237"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-65894c41-190b-4547-914a-474f1db3b087fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs194">
+      <radialGradient
+         cx="-0.26640838"
+         cy="88.094635"
+         fx="177.79968"
+         fy="88.094635"
+         id="sid-71323552-ca51-4ea3-9e37-e1e4688a3bd0background"
+         r="1780.6609"
+         gradientTransform="matrix(1.8768178,0,0,0.53281677,57,136.191)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           stop-color="#ffffff"
+           stop-opacity="0"
+           id="stop190" />
+        <stop
+           id="sid-71323552-ca51-4ea3-9e37-e1e4688a3bd0fill_el"
+           offset="100%"
+           stop-color="#ffffff"
+           stop-opacity="0" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs213">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,197.525,303.513)"
+         r="90.448883"
+         id="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3fbackground"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop209"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3ffill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs254">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="41.414433"
+         id="sid-c759756b-0720-4cc0-8856-67cc1fd37954background"
+         fy="3.4253874"
+         fx="3.4253874"
+         cy="3.4253874"
+         cx="3.4253874"
+         gradientTransform="translate(342.525,323.513)">
+        <stop
+           id="stop250"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-c759756b-0720-4cc0-8856-67cc1fd37954fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs290">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="31"
+         id="sid-b8f868ab-7db8-4048-ad2b-64a29dd38e8cbackground"
+         fy="1.6"
+         fx="1.6"
+         cy="1.6"
+         cx="1.6"
+         gradientTransform="translate(427.787,230.513)">
+        <stop
+           id="stop286"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-b8f868ab-7db8-4048-ad2b-64a29dd38e8cfill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs325">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,736,303.992)"
+         r="90.448883"
+         id="sid-24e90ad6-6059-4937-acd9-9150e178a13dbackground"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop321"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-24e90ad6-6059-4937-acd9-9150e178a13dfill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs364">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="41.414433"
+         id="sid-ac9553e0-2026-449a-bb49-96c73b75e4efbackground"
+         fy="3.4253874"
+         fx="3.4253874"
+         cy="3.4253874"
+         cx="3.4253874"
+         gradientTransform="translate(894.213,323.513)">
+        <stop
+           id="stop360"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-ac9553e0-2026-449a-bb49-96c73b75e4effill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs398">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="41.414433"
+         id="sid-be816b75-71e7-4c16-8b84-c5f885966eefbackground"
+         fy="3.4253874"
+         fx="3.4253874"
+         cy="3.4253874"
+         cx="3.4253874"
+         gradientTransform="translate(979.213,323.513)">
+        <stop
+           id="stop394"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-be816b75-71e7-4c16-8b84-c5f885966eeffill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs432">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="31"
+         id="sid-d6159b82-ba72-4efb-8d6b-d65d2647b864background"
+         fy="2.5999999"
+         fx="2.5999999"
+         cy="2.5999999"
+         cx="2.5999999"
+         gradientTransform="translate(1161.91,433.034)">
+        <stop
+           id="stop428"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-d6159b82-ba72-4efb-8d6b-d65d2647b864fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs472">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="31"
+         id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86background"
+         fy="2.5999999"
+         fx="2.5999999"
+         cy="2.5999999"
+         cx="2.5999999"
+         gradientTransform="translate(1055.936,272.284)">
+        <stop
+           id="stop468"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs510">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="31"
+         id="sid-04d0e492-a56b-40fd-95ec-73da540e9fcabackground"
+         fy="1.6"
+         fx="1.6"
+         cy="1.6"
+         cx="1.6"
+         gradientTransform="translate(1646.914,434.513)">
+        <stop
+           id="stop506"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-04d0e492-a56b-40fd-95ec-73da540e9fcafill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs545">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="31"
+         id="sid-dc91fdae-a859-4adb-866f-62b17a6d3121background"
+         fy="2.5999999"
+         fx="2.5999999"
+         cy="2.5999999"
+         cx="2.5999999"
+         gradientTransform="translate(122.525,328.992)">
+        <stop
+           id="stop541"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-dc91fdae-a859-4adb-866f-62b17a6d3121fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs582">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,1350.375,408.513)"
+         r="90.448883"
+         id="sid-2218d162-e0a5-40c0-adbd-28bb3d13b856background"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop578"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-2218d162-e0a5-40c0-adbd-28bb3d13b856fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs621">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,1216.91,408.513)"
+         r="90.448883"
+         id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4efbackground"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop617"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4effill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs663">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,1020.936,147.284)"
+         r="90.448883"
+         id="sid-e8bc231b-a46d-492f-95fa-70258356a1bdbackground"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop659"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-e8bc231b-a46d-492f-95fa-70258356a1bdfill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs702">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,594.187,303.513)"
+         r="90.448883"
+         id="sid-7e74d2e9-626f-4f1c-b285-4340748089e1background"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop698"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-7e74d2e9-626f-4f1c-b285-4340748089e1fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs743">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(0.96285565,1.0385773)"
+         r="11.272254"
+         id="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717abackground"
+         fy="-0.035044178"
+         fx="73.290688"
+         cy="-0.035044178"
+         cx="73.290688">
+        <stop
+           id="stop739"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717afill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs781">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(0.96285565,1.0385773)"
+         r="11.272254"
+         id="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596background"
+         fy="-0.035044178"
+         fx="73.290688"
+         cy="-0.035044178"
+         cx="73.290688">
+        <stop
+           id="stop777"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs819">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(0.96285565,1.0385773)"
+         r="11.272254"
+         id="sid-55a75824-2102-4850-9c88-0b172e4a9966background"
+         fy="-0.035044178"
+         fx="73.290688"
+         cy="-0.035044178"
+         cx="73.290688">
+        <stop
+           id="stop815"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-55a75824-2102-4850-9c88-0b172e4a9966fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs857">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(0.96285565,1.0385773)"
+         r="11.272254"
+         id="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137background"
+         fy="-0.035044178"
+         fx="73.290688"
+         cy="-0.035044178"
+         cx="73.290688">
+        <stop
+           id="stop853"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs893">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.0148312,0,0,0.9853855,527.606,506.227)"
+         r="31.040136"
+         id="sid-51147d73-b4f4-4bb5-8e63-ccb5df5e6d24background"
+         fy="-0.50741559"
+         fx="-0.49269274"
+         cy="18.116667"
+         cx="18.13139">
+        <stop
+           id="stop889"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-51147d73-b4f4-4bb5-8e63-ccb5df5e6d24fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs927">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,449.187,303.513)"
+         r="90.448883"
+         id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9fbackground"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop923"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9ffill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs971">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,1496.142,408.513)"
+         r="90.448883"
+         id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2background"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop967"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs1015">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="31"
+         id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0background"
+         fy="2.5999999"
+         fx="2.5999999"
+         cy="2.5999999"
+         cx="2.5999999"
+         gradientTransform="translate(1105.936,205.399)">
+        <stop
+           id="stop1011"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs1057">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,1447.884,180.232)"
+         r="90.448883"
+         id="sid-729864a0-f0a8-4faa-a40e-eb5e8ba2d3f6background"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop1053"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-729864a0-f0a8-4faa-a40e-eb5e8ba2d3f6fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs1101">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.1166528,0,0,0.89553347,1217.678,180.232)"
+         r="90.448883"
+         id="sid-9d86e698-10ab-45b2-a9d1-0d3aed3a9ea0background"
+         fy="8.4865618"
+         fx="8.5971212"
+         cy="8.4865618"
+         cx="8.5971212">
+        <stop
+           id="stop1097"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#c0c0c0"
+           offset="100%"
+           id="sid-9d86e698-10ab-45b2-a9d1-0d3aed3a9ea0fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs1140">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         r="31"
+         id="sid-62d0245e-1ab8-43b2-b879-791be83728d2background"
+         fy="1.6"
+         fx="1.6"
+         cy="1.6"
+         cx="1.6"
+         gradientTransform="translate(1646.914,206.232)">
+        <stop
+           id="stop1136"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-62d0245e-1ab8-43b2-b879-791be83728d2fill_el" />
+      </radialGradient>
+    </defs>
+    <defs
+       id="defs1173">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(1.0148312,0,0,0.9853855,1539.913,303.34)"
+         r="31.040136"
+         id="sid-d7fcd569-f802-4695-bb6d-3feb74bacc0fbackground"
+         fy="-0.50741559"
+         fx="-0.49269274"
+         cy="18.116667"
+         cx="18.13139">
+        <stop
+           id="stop1169"
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="0" />
+        <stop
+           stop-opacity="1"
+           stop-color="#ffffff"
+           offset="100%"
+           id="sid-d7fcd569-f802-4695-bb6d-3feb74bacc0ffill_el" />
+      </radialGradient>
+    </defs>
+    <marker
+       id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358start-9"
+       markerHeight="12"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       orient="auto"
+       refX="6"
+       refY="6">
+      <circle
+         cx="6"
+         cy="6"
+         id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358arrowhead-3"
+         r="5"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+    <marker
+       id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358end-7"
+       markerHeight="10"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M 0,0 10,5 0,10 V 0"
+         id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358arrowhead2-6"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-dasharray:none" />
+    </marker>
+  </defs>
+  <g
+     id="g853"
+     transform="matrix(0.49970957,0,0,0.49970957,-13.242304,-12.242884)">
+    <rect
+       display="inherit"
+       height="473.383"
+       id="sid-f1837c14-41f4-403a-8724-1f6a0d09be90c"
+       oryx:resize="vertical horizontal"
+       width="1699.988"
+       x="27"
+       y="136.19099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:url(#radialGradient2125);fill-opacity:0.3;stroke:#000000" />
+    <rect
+       oryx:anchors="bottom left top"
+       display="inherit"
+       height="473.383"
+       id="sid-f1837c14-41f4-403a-8724-1f6a0d09be90caption"
+       pointer-events="all"
+       width="30"
+       x="27"
+       y="136.19099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:url(#radialGradient2127);stroke:#000000;stroke-width:1" />
+    <rect
+       oryx:anchors="bottom left top"
+       display="inherit"
+       height="473.383"
+       id="sid-f1837c14-41f4-403a-8724-1f6a0d09be90captionDisableAntialiasing"
+       pointer-events="all"
+       width="30"
+       x="27"
+       y="136.19099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:url(#radialGradient2129);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:anchors="left"
+       oryx:fittoelem="sid-f1837c14-41f4-403a-8724-1f6a0d09be90caption"
+       font-size="24"
+       oryx:fontSize="24"
+       id="sid-f1837c14-41f4-403a-8724-1f6a0d09be90text_name"
+       letter-spacing="-0.01px"
+       oryx:rotate="270"
+       oryx:textWidth="473.383"
+       transform="rotate(-90)"
+       x="-372.883"
+       y="40"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:24px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="9"
+         x="-372.883"
+         y="40"
+         id="tspan181">online shop</tspan>
+    </text>
+    <rect
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-71323552-ca51-4ea3-9e37-e1e4688a3bd0background);stroke:#000000;stroke-width:1"
+       y="136.19099"
+       x="57"
+       width="1669.988"
+       oryx:resize="vertical horizontal"
+       pointer-events="none"
+       id="sid-71323552-ca51-4ea3-9e37-e1e4688a3bd0border"
+       height="473.383" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-71323552-ca51-4ea3-9e37-e1e4688a3bd0captionDisableAntialiasing"
+       d="M 57,136.191 V 609.574"
+       oryx:anchors="bottom left top" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="63"
+       x="-372.883"
+       transform="rotate(-90)"
+       oryx:textWidth="471.383"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-71323552-ca51-4ea3-9e37-e1e4688a3bd0text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:fittoelem="sid-71323552-ca51-4ea3-9e37-e1e4688a3bd0caption"
+       oryx:anchors="left"
+       oryx:align="center top" />
+    <text
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-size:12px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;text-anchor:middle;fill:#c0c0c0;stroke:none"
+       id="text203"
+       y="151.19099"
+       x="707"
+       oryx:fontSize="12"
+       font-style="italic"
+       font-size="12"
+       class="y-node-watermark"
+       oryx:align="center bottom">
+      <tspan
+         id="tspan201"
+         y="151.19099"
+         x="707"
+         dy="0">online shop</tspan>
+    </text>
+    <rect
+       height="80"
+       id="VERIFY_ORDER"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="197.52499"
+       y="303.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3fbackground);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3ftext_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3ftext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="247.52499"
+       y="343.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-3"
+         x="247.52499"
+         y="343.513"
+         id="tspan216">verify<v:newlineChar />
+</tspan>
+      <tspan
+         dy="15"
+         x="247.52499"
+         y="343.513"
+         id="tspan218">order</tspan>
+    </text>
+    <polygon
+       transform="matrix(0.7,0,0,0.7,203.125,309.113)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#ffffff;stroke:#000000"
+       points="13.116,4.121 15.392,5.064 17.954,2.502 20.347,4.895 17.786,7.455 18.729,9.732 22.353,9.732 22.353,13.115 18.731,13.115 17.788,15.392 20.351,17.955 17.958,20.347 15.397,17.786 13.12,18.729 13.12,22.353 9.737,22.353 9.737,18.731 7.46,17.788 4.897,20.35 2.506,17.958 5.066,15.397 4.124,13.12 0.5,13.12 0.5,9.737 4.121,9.737 5.065,7.461 2.503,4.898 4.895,2.506 7.455,5.066 9.732,4.125 9.732,0.5 13.116,0.5 "
+       id="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3fteethForeground"
+       oryx:anchors="left top" />
+    <circle
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       r="2.5998001"
+       id="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3fringForeground"
+       cy="316.81299"
+       cx="210.825"
+       oryx:anchors="left top" />
+    <polygon
+       transform="matrix(0.7,0,0,0.7,203.125,309.113)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#ffffff;stroke:#000000"
+       points="19.116,10.121 21.392,11.064 23.954,8.502 26.347,10.895 23.786,13.455 24.729,15.732 28.353,15.732 28.353,19.115 24.731,19.115 23.788,21.392 26.351,23.955 23.958,26.347 21.397,23.786 19.12,24.729 19.12,28.353 15.737,28.353 15.737,24.731 13.46,23.788 10.897,26.35 8.506,23.958 11.066,21.397 10.124,19.12 6.5,19.12 6.5,15.737 10.121,15.737 11.065,13.461 8.503,10.898 10.895,8.506 13.455,11.066 15.732,10.125 15.732,6.5 19.116,6.5 "
+       id="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3fteethBackground"
+       oryx:anchors="left top" />
+    <circle
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       r="2.5998001"
+       id="sid-838c72cd-a73d-4f94-8b9e-929b09eb8e3fringBackground"
+       cy="321.013"
+       cx="215.02499"
+       oryx:anchors="left top" />
+    <path
+       d="m 342.525,344.013 20.5,-20.5 19.5,20.5 -19.5,19.5 z"
+       id="sid-c759756b-0720-4cc0-8856-67cc1fd37954bg_frame"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-c759756b-0720-4cc0-8856-67cc1fd37954background);stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#000000;stroke-width:1"
+       id="sid-c759756b-0720-4cc0-8856-67cc1fd37954crosspath"
+       d="m 355.775,335.563 h 4 l 10.4,16.9 h -3.9 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#000000;stroke-width:1"
+       id="sid-c759756b-0720-4cc0-8856-67cc1fd37954crosspath2"
+       d="m 355.775,352.463 10.5,-16.9 h 3.9 l -10.4,16.9 z" />
+    <text
+       oryx:align="center top"
+       oryx:anchors="bottom"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-c759756b-0720-4cc0-8856-67cc1fd37954text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="362.52499"
+       y="368.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="362.52499"
+         y="368.513"
+         id="tspan260">order correct?</tspan>
+    </text>
+    <circle
+       cx="441.78699"
+       cy="244.513"
+       id="ORDER_REJECTED"
+       r="14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-b8f868ab-7db8-4048-ad2b-64a29dd38e8cbackground);stroke:#000000;stroke-width:3" />
+    <path
+       d="m 433.787,239.513 v 10 h 16 v -10 l -8,6 z"
+       id="sid-b8f868ab-7db8-4048-ad2b-64a29dd38e8cpath1"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:none;stroke-width:1" />
+    <path
+       d="m 433.787,238.513 8,6 8,-6 z"
+       id="sid-b8f868ab-7db8-4048-ad2b-64a29dd38e8cpath2"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:none;stroke-width:1" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-b8f868ab-7db8-4048-ad2b-64a29dd38e8ctext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="441.78699"
+       y="260.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="441.78699"
+         y="260.513"
+         id="tspan295">order rejected</tspan>
+    </text>
+    <rect
+       height="80"
+       id="INVOICE_CREATED"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="736"
+       y="303.992"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-24e90ad6-6059-4937-acd9-9150e178a13dbackground);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-24e90ad6-6059-4937-acd9-9150e178a13dtext_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-24e90ad6-6059-4937-acd9-9150e178a13dtext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="786"
+       y="343.992"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-3"
+         x="786"
+         y="343.992"
+         id="tspan328">send<v:newlineChar />
+</tspan>
+      <tspan
+         dy="15"
+         x="786"
+         y="343.992"
+         id="tspan330">invoice</tspan>
+    </text>
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-24e90ad6-6059-4937-acd9-9150e178a13dsendTaskpath"
+       d="m 744,314.992 v 10 h 16 v -10 l -8,6 z"
+       oryx:anchors="left top" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-24e90ad6-6059-4937-acd9-9150e178a13dsendTaskpath2"
+       d="m 743,313.992 9,7 9,-7 z"
+       oryx:anchors="left top" />
+    <path
+       d="m 894.213,344.013 20.5,-20.5 19.5,20.5 -19.5,19.5 z"
+       id="sid-ac9553e0-2026-449a-bb49-96c73b75e4efbg_frame"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-ac9553e0-2026-449a-bb49-96c73b75e4efbackground);stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#000000;stroke-width:1"
+       id="sid-ac9553e0-2026-449a-bb49-96c73b75e4efcrosspath"
+       d="m 907.463,335.563 h 4 l 10.4,16.9 h -3.9 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#000000;stroke-width:1"
+       id="sid-ac9553e0-2026-449a-bb49-96c73b75e4efcrosspath2"
+       d="m 907.463,352.463 10.5,-16.9 h 3.9 l -10.4,16.9 z" />
+    <text
+       oryx:align="left top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-ac9553e0-2026-449a-bb49-96c73b75e4eftext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="924.71301"
+       y="354.013"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt" />
+    <path
+       d="m 979.213,344.013 20.5,-20.5 19.5,20.5 -19.5,19.5 z"
+       id="INVOICE_SEND"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-be816b75-71e7-4c16-8b84-c5f885966eefbackground);stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="999.21301"
+       cy="343.513"
+       id="sid-be816b75-71e7-4c16-8b84-c5f885966eefcircle2"
+       r="11.7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:0.5" />
+    <circle
+       cx="999.21301"
+       cy="343.513"
+       id="sid-be816b75-71e7-4c16-8b84-c5f885966eefcircle"
+       r="10.4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:0.5" />
+    <path
+       d="m 1004.041,350.358 -9.069,-10e-4 -2.801,-8.624 7.337,-5.33 7.335,5.331 z"
+       id="sid-be816b75-71e7-4c16-8b84-c5f885966eefmiddlePolygon"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-linejoin:bevel;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       oryx:align="left top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-be816b75-71e7-4c16-8b84-c5f885966eeftext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="1009.713"
+       y="354.013"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt" />
+    <circle
+       cx="1176.91"
+       cy="448.034"
+       id="sid-d6159b82-ba72-4efb-8d6b-d65d2647b864bg_frame"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-d6159b82-ba72-4efb-8d6b-d65d2647b864background);stroke:#000000;stroke-width:1;stroke-dasharray:5.5, 3" />
+    <circle
+       cx="1176.91"
+       cy="448.034"
+       display="inherit"
+       id="sid-d6159b82-ba72-4efb-8d6b-d65d2647b864frame2"
+       r="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <circle
+       cx="1176.91"
+       cy="448.034"
+       id="sid-d6159b82-ba72-4efb-8d6b-d65d2647b864frame2_non_interrupting"
+       r="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:4.5, 3" />
+    <circle
+       cx="1176.91"
+       cy="448.034"
+       display="inherit"
+       id="INVOICE_SEND_PAY"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:none;stroke:#000000;stroke-width:1"
+       inkscape:label="#INVOICE_SEND_PAY" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-d6159b82-ba72-4efb-8d6b-d65d2647b864envelope"
+       d="m 1168.91,443.034 v 10 h 16 v -10 z m 0,0 8,6 8,-6" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-d6159b82-ba72-4efb-8d6b-d65d2647b864text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="1172.9077"
+       y="461.03168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="1172.9077"
+         y="461.03168"
+         id="tspan440">payment<v:newlineChar />
+</tspan>
+      <tspan
+         dy="36"
+         x="1172.9077"
+         y="461.03168"
+         id="tspan442">received</tspan>
+    </text>
+    <circle
+       cx="1070.936"
+       cy="287.284"
+       id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86bg_frame"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86background);stroke:#000000;stroke-width:1;stroke-dasharray:5.5, 3" />
+    <circle
+       cx="1070.936"
+       cy="287.284"
+       display="inherit"
+       id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86frame2"
+       r="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <circle
+       cx="1070.936"
+       cy="287.284"
+       id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86frame2_non_interrupting"
+       r="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:4.5, 3" />
+    <circle
+       cx="1070.936"
+       cy="287.284"
+       display="inherit"
+       id="INVOICE_SEND_WEEK"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:none;stroke:#000000;stroke-width:1"
+       inkscape:label="#INVOICE_SEND_WEEK" />
+    <circle
+       cx="1070.936"
+       cy="287.284"
+       id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86circle"
+       r="10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:1" />
+    <path
+       d="m 1070.936,277.284 v 3 m 5,-2 -1.5,3 m 5.5,1 -3,1.5 m 4,3.5 h -3 m 2,5 -3,-1.5 m -1,5.5 -1.5,-3 m -3.5,4 v -3 m -5,2 1.5,-3 m -5.5,-1 3,-1.5 m -4,-3.5 h 3 m -2,-5 3,1.5 m 1,-5.5 1.5,3 m 5.5,-1 -2,7 h 4"
+       id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86path1"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-a2b2d37e-3c41-45e8-b7cf-3c1283c42a86text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="1070.936"
+       y="300.28168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="1070.936"
+         y="300.28168"
+         id="tspan480">2 weeks</tspan>
+    </text>
+    <circle
+       cx="1660.9139"
+       cy="448.513"
+       id="REMOVED_CONTACT_"
+       r="14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-04d0e492-a56b-40fd-95ec-73da540e9fcabackground);stroke:#000000;stroke-width:3"
+       inkscape:label="#REMOVED_CONTACT_" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-04d0e492-a56b-40fd-95ec-73da540e9fcatext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="1660.9139"
+       y="464.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="1660.9139"
+         y="464.513"
+         id="tspan513">order<v:newlineChar />
+</tspan>
+      <tspan
+         dy="36"
+         x="1660.9139"
+         y="464.513"
+         id="tspan515">completed</tspan>
+    </text>
+    <circle
+       cx="137.52499"
+       cy="343.992"
+       id="sid-dc91fdae-a859-4adb-866f-62b17a6d3121bg_frame"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-dc91fdae-a859-4adb-866f-62b17a6d3121background);stroke:#000000;stroke-width:1;stroke-dasharray:5.5, 3" />
+    <circle
+       cx="137.52499"
+       cy="343.992"
+       display="inherit"
+       id="RECEIVED_ORDER"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:none;stroke:#000000;stroke-width:1" />
+    <path
+       d="m 129.525,338.992 v 10 h 16 v -10 z m 0,0 8,6 8,-6"
+       id="sid-dc91fdae-a859-4adb-866f-62b17a6d3121path1"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-dc91fdae-a859-4adb-866f-62b17a6d3121text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="137.52499"
+       y="360.992"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="137.52499"
+         y="360.992"
+         id="tspan550">order<v:newlineChar />
+</tspan>
+      <tspan
+         dy="36"
+         x="137.52499"
+         y="360.992"
+         id="tspan552">received</tspan>
+    </text>
+    <rect
+       height="80"
+       id="PACKAGE_ASSAMBELED"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="1350.375"
+       y="408.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-2218d162-e0a5-40c0-adbd-28bb3d13b856background);stroke:#000000;stroke-width:1"
+       inkscape:label="#PACKAGE_ASSAMBELED" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-2218d162-e0a5-40c0-adbd-28bb3d13b856text_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-2218d162-e0a5-40c0-adbd-28bb3d13b856text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="1400.375"
+       y="448.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-3"
+         x="1400.375"
+         y="448.513"
+         id="tspan585">send<v:newlineChar />
+</tspan>
+      <tspan
+         dy="15"
+         x="1400.375"
+         y="448.513"
+         id="tspan587">package</tspan>
+    </text>
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-2218d162-e0a5-40c0-adbd-28bb3d13b856sendTaskpath"
+       d="m 1358.375,419.513 v 10 h 16 v -10 l -8,6 z"
+       oryx:anchors="left top" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-2218d162-e0a5-40c0-adbd-28bb3d13b856sendTaskpath2"
+       d="m 1357.375,418.513 9,7 9,-7 z"
+       oryx:anchors="left top" />
+    <rect
+       height="80"
+       id="PAYMENT_RECEIVED"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="1216.91"
+       y="408.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-c6d8663c-e533-4483-b1b4-c0cff323f4efbackground);stroke:#000000;stroke-width:1"
+       inkscape:label="#PAYMENT_RECEIVED" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-c6d8663c-e533-4483-b1b4-c0cff323f4eftext_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4eftext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="1266.91"
+       y="448.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-3"
+         x="1266.91"
+         y="448.513"
+         id="tspan624">assemble<v:newlineChar />
+</tspan>
+      <tspan
+         dy="15"
+         x="1266.91"
+         y="448.513"
+         id="tspan626">package</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#f4f6f7;stroke:#000000;stroke-width:0.69999999"
+       id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4efuserTaskpath"
+       d="m 1222.9195,431.0299 h 16.8581 v -5.4831 c 0,0 -1.6331,-2.7419 -4.9581,-3.6169 h -6.475 c -3.0919,0.9331 -5.4831,4.025 -5.4831,4.025 z"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4efuserTaskpath2"
+       d="m 1226.71,428.113 v 2.8"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4efuserTaskpath3"
+       d="m 1236.51,428.113 v 2.8"
+       oryx:anchors="left top" />
+    <circle
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#000000;stroke-width:0.69999999"
+       r="3.7918999"
+       id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4efuserTaskcircle"
+       cy="417.61301"
+       cx="1231.61"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#f0eff0;stroke:#000000;stroke-width:0.69999999"
+       id="sid-c6d8663c-e533-4483-b1b4-c0cff323f4efuserTaskpath4"
+       d="m 1228.1401,419.0711 c 0,0 1.9698,-1.6982 3.7632,-1.2649 1.7934,0.4333 3.2368,-0.4851 3.2368,-0.4851 0.175,1.1816 0.029,2.625 -1.0206,3.9088 0,0 0.7581,0.525 0.7581,1.05 0,0.525 0.087,1.3125 -0.7,2.1 -0.7875,0.7875 -3.85,0.875 -4.725,0 -0.875,-0.875 -0.875,-1.2831 -0.875,-1.8669 0,-0.5838 0.4081,-0.875 0.875,-1.3419 -0.7581,-0.4081 -1.7493,-1.6625 -1.3125,-2.1 z"
+       oryx:anchors="left top" />
+    <rect
+       height="80"
+       id="TWO_WEEKS_PAST"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="1020.936"
+       y="147.284"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-e8bc231b-a46d-492f-95fa-70258356a1bdbackground);stroke:#000000;stroke-width:1"
+       inkscape:label="#TWO_WEEKS_PAST" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-e8bc231b-a46d-492f-95fa-70258356a1bdtext_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-e8bc231b-a46d-492f-95fa-70258356a1bdtext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="1070.936"
+       y="187.284"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-3"
+         x="1070.936"
+         y="187.284"
+         id="tspan666">send<v:newlineChar />
+</tspan>
+      <tspan
+         dy="15"
+         x="1070.936"
+         y="187.284"
+         id="tspan668">reminder</tspan>
+    </text>
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-e8bc231b-a46d-492f-95fa-70258356a1bdsendTaskpath"
+       d="m 1028.936,158.284 v 10 h 16 v -10 l -8,6 z"
+       oryx:anchors="left top" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-e8bc231b-a46d-492f-95fa-70258356a1bdsendTaskpath2"
+       d="m 1027.936,157.284 9,7 9,-7 z"
+       oryx:anchors="left top" />
+    <rect
+       height="80"
+       id="ADDRESS_STORED"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="594.18701"
+       y="303.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-7e74d2e9-626f-4f1c-b285-4340748089e1background);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-7e74d2e9-626f-4f1c-b285-4340748089e1text_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-7e74d2e9-626f-4f1c-b285-4340748089e1text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="644.18701"
+       y="343.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-3"
+         x="644.18701"
+         y="343.513"
+         id="tspan705">create<v:newlineChar />
+</tspan>
+      <tspan
+         dy="15"
+         x="644.18701"
+         y="343.513"
+         id="tspan707">invoice</tspan>
+    </text>
+    <polygon
+       transform="matrix(0.7,0,0,0.7,599.787,309.113)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#ffffff;stroke:#000000"
+       points="13.116,4.121 15.392,5.064 17.954,2.502 20.347,4.895 17.786,7.455 18.729,9.732 22.353,9.732 22.353,13.115 18.731,13.115 17.788,15.392 20.351,17.955 17.958,20.347 15.397,17.786 13.12,18.729 13.12,22.353 9.737,22.353 9.737,18.731 7.46,17.788 4.897,20.35 2.506,17.958 5.066,15.397 4.124,13.12 0.5,13.12 0.5,9.737 4.121,9.737 5.065,7.461 2.503,4.898 4.895,2.506 7.455,5.066 9.732,4.125 9.732,0.5 13.116,0.5 "
+       id="sid-7e74d2e9-626f-4f1c-b285-4340748089e1teethForeground"
+       oryx:anchors="left top" />
+    <circle
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       r="2.5998001"
+       id="sid-7e74d2e9-626f-4f1c-b285-4340748089e1ringForeground"
+       cy="316.81299"
+       cx="607.487"
+       oryx:anchors="left top" />
+    <polygon
+       transform="matrix(0.7,0,0,0.7,599.787,309.113)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#ffffff;stroke:#000000"
+       points="19.116,10.121 21.392,11.064 23.954,8.502 26.347,10.895 23.786,13.455 24.729,15.732 28.353,15.732 28.353,19.115 24.731,19.115 23.788,21.392 26.351,23.955 23.958,26.347 21.397,23.786 19.12,24.729 19.12,28.353 15.737,28.353 15.737,24.731 13.46,23.788 10.897,26.35 8.506,23.958 11.066,21.397 10.124,19.12 6.5,19.12 6.5,15.737 10.121,15.737 11.065,13.461 8.503,10.898 10.895,8.506 13.455,11.066 15.732,10.125 15.732,6.5 19.116,6.5 "
+       id="sid-7e74d2e9-626f-4f1c-b285-4340748089e1teethBackground"
+       oryx:anchors="left top" />
+    <circle
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       r="2.5998001"
+       id="sid-7e74d2e9-626f-4f1c-b285-4340748089e1ringBackground"
+       cy="321.013"
+       cx="611.68701"
+       oryx:anchors="left top" />
+    <polyline
+       transform="translate(262.926,166.084)"
+       oryx:anchors="left right"
+       id="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717aframe"
+       points="69.983,94.148 0,94.148 0,0 69.983,0"
+       oryx:resize="vertical horizontal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(262.926,166.084)"
+       oryx:anchors="bottom top right"
+       id="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717acelem2"
+       points="69.983,94.148 79.983,94.148 79.983,10 69.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(262.926,166.084)"
+       oryx:anchors="top right"
+       id="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717acelem3"
+       points="79.983,10 69.983,0 69.983,10 79.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-6f739d3b-8c7f-43f4-a009-7129fe1f717abackground);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717aunvisibleBorder"
+       font-size="14"
+       oryx:fontSize="14"
+       id="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717atext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="302.91699"
+       y="213.158"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="5"
+         x="302.91699"
+         y="213.158"
+         id="tspan748">order</tspan>
+    </text>
+    <text
+       oryx:align="center middle"
+       oryx:anchors="bottom"
+       oryx:fittoelem="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717aunvisibleBorder"
+       font-size="14"
+       oryx:fontSize="14"
+       id="sid-6f739d3b-8c7f-43f4-a009-7129fe1f717atext_state"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="302.91699"
+       y="243.23201"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="5"
+         x="302.91699"
+         y="243.23201"
+         id="tspan751">[incorrect]</tspan>
+    </text>
+    <polyline
+       transform="translate(336.525,487.826)"
+       oryx:anchors="left right"
+       id="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596frame"
+       points="69.983,94.148 0,94.148 0,0 69.983,0"
+       oryx:resize="vertical horizontal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(336.525,487.826)"
+       oryx:anchors="bottom top right"
+       id="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596celem2"
+       points="69.983,94.148 79.983,94.148 79.983,10 69.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(336.525,487.826)"
+       oryx:anchors="top right"
+       id="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596celem3"
+       points="79.983,10 69.983,0 69.983,10 79.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-3a6e9890-1b29-4433-9f0d-0469e6c85596background);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596unvisibleBorder"
+       font-size="14"
+       oryx:fontSize="14"
+       id="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="376.51599"
+       y="534.90002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="5"
+         x="376.51599"
+         y="534.90002"
+         id="tspan786">order</tspan>
+    </text>
+    <text
+       oryx:align="center middle"
+       oryx:anchors="bottom"
+       oryx:fittoelem="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596unvisibleBorder"
+       font-size="14"
+       oryx:fontSize="14"
+       id="sid-3a6e9890-1b29-4433-9f0d-0469e6c85596text_state"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="376.51599"
+       y="564.974"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="5"
+         x="376.51599"
+         y="564.974"
+         id="tspan789">[correct]</tspan>
+    </text>
+    <polyline
+       transform="translate(129.837,487.826)"
+       oryx:anchors="left right"
+       id="sid-55a75824-2102-4850-9c88-0b172e4a9966frame"
+       points="69.983,94.148 0,94.148 0,0 69.983,0"
+       oryx:resize="vertical horizontal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(129.837,487.826)"
+       oryx:anchors="bottom top right"
+       id="sid-55a75824-2102-4850-9c88-0b172e4a9966celem2"
+       points="69.983,94.148 79.983,94.148 79.983,10 69.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(129.837,487.826)"
+       oryx:anchors="top right"
+       id="sid-55a75824-2102-4850-9c88-0b172e4a9966celem3"
+       points="79.983,10 69.983,0 69.983,10 79.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-55a75824-2102-4850-9c88-0b172e4a9966background);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-55a75824-2102-4850-9c88-0b172e4a9966unvisibleBorder"
+       font-size="14"
+       oryx:fontSize="14"
+       id="sid-55a75824-2102-4850-9c88-0b172e4a9966text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="169.828"
+       y="534.90002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="5"
+         x="169.828"
+         y="534.90002"
+         id="tspan824">order</tspan>
+    </text>
+    <text
+       oryx:align="center middle"
+       oryx:anchors="bottom"
+       oryx:fittoelem="sid-55a75824-2102-4850-9c88-0b172e4a9966unvisibleBorder"
+       font-size="14"
+       oryx:fontSize="14"
+       id="sid-55a75824-2102-4850-9c88-0b172e4a9966text_state"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="169.828"
+       y="564.974"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="5"
+         x="169.828"
+         y="564.974"
+         id="tspan827">[received]</tspan>
+    </text>
+    <polyline
+       transform="translate(686.701,166.084)"
+       oryx:anchors="left right"
+       id="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137frame"
+       points="69.983,92.429 0,92.429 0,0 69.983,0"
+       oryx:resize="vertical horizontal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(686.701,166.084)"
+       oryx:anchors="bottom top right"
+       id="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137celem2"
+       points="69.983,92.429 79.983,92.429 79.983,10 69.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <polyline
+       transform="translate(686.701,166.084)"
+       oryx:anchors="top right"
+       id="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137celem3"
+       points="79.983,10 69.983,0 69.983,10 79.983,10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-e490dc97-7404-4dd2-99a8-ee749d2ed137background);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137unvisibleBorder"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="726.69202"
+       y="212.298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="6"
+         x="726.69202"
+         y="212.298"
+         id="tspan862">invoice</tspan>
+    </text>
+    <text
+       oryx:align="center middle"
+       oryx:anchors="bottom"
+       oryx:fittoelem="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137unvisibleBorder"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-e490dc97-7404-4dd2-99a8-ee749d2ed137text_state"
+       letter-spacing="-0.01px"
+       oryx:textWidth="79.983"
+       x="726.69202"
+       y="241.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt" />
+    <path
+       oryx:anchors="bottom left top right"
+       d="m 558.315,506.227 c 20.013,0 31.292,3.05 31.292,5.729 0,2.678 0,45.096 0,48.244 0,3.148 -16.42,6.2 -31.388,6.2 -14.968,0 -30.613,-2.955 -30.613,-6.298 0,-3.342 0,-45.728 0,-48.05 0,-2.322 10.697,-5.825 30.709,-5.825 z"
+       id="sid-51147d73-b4f4-4bb5-8e63-ccb5df5e6d24bg_frame"
+       oryx:resize="vertical horizontal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-51147d73-b4f4-4bb5-8e63-ccb5df5e6d24background);stroke:#000000"
+       inkscape:connector-curvature="0" />
+    <path
+       oryx:anchors="left right"
+       d="m 589.607,521.255 c 0,1.986 -3.62,6.551 -31.267,6.551 -27.646,0 -30.734,-4.686 -30.734,-6.454 m 0,-4.65 c 0,1.769 3.088,6.455 30.734,6.455 27.647,0 31.267,-4.565 31.267,-6.551 m -62.001,-4.554 c 0,2.35 3.088,6.455 30.734,6.455 27.647,0 31.267,-3.912 31.267,-6.552 m 0,0.001 v 4.844 m -61.977,-4.844 v 4.844 m 61.977,-0.194 v 4.844 m -61.977,-4.844 v 4.844"
+       id="sid-51147d73-b4f4-4bb5-8e63-ccb5df5e6d24bg_frame2"
+       oryx:resize="vertical"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-51147d73-b4f4-4bb5-8e63-ccb5df5e6d24text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="557.68103"
+       y="571.565"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="557.68103"
+         y="571.565"
+         id="tspan897">customerDB</tspan>
+    </text>
+    <rect
+       height="80"
+       id="ORDER_VERIFIED"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="449.18701"
+       y="303.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-806384da-fb6e-4ba6-92a1-9d70a6abec9fbackground);stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9ftext_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9ftext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="499.18701"
+       y="343.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-12"
+         x="499.18701"
+         y="343.513"
+         id="tspan930">save<v:newlineChar />
+</tspan>
+      <tspan
+         dy="6"
+         x="499.18701"
+         y="343.513"
+         id="tspan932">customer<v:newlineChar />
+</tspan>
+      <tspan
+         dy="24"
+         x="499.18701"
+         y="343.513"
+         id="tspan934">contact</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#f4f6f7;stroke:#000000;stroke-width:0.69999999"
+       id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9fuserTaskpath"
+       d="m 455.1965,326.0299 h 16.8581 v -5.4831 c 0,0 -1.6331,-2.7419 -4.9581,-3.6169 h -6.475 c -3.0919,0.9331 -5.4831,4.025 -5.4831,4.025 z"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9fuserTaskpath2"
+       d="m 458.987,323.113 v 2.8"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9fuserTaskpath3"
+       d="m 468.787,323.113 v 2.8"
+       oryx:anchors="left top" />
+    <circle
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#000000;stroke-width:0.69999999"
+       r="3.7918999"
+       id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9fuserTaskcircle"
+       cy="312.61301"
+       cx="463.88699"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#f0eff0;stroke:#000000;stroke-width:0.69999999"
+       id="sid-806384da-fb6e-4ba6-92a1-9d70a6abec9fuserTaskpath4"
+       d="m 460.4171,314.0711 c 0,0 1.9698,-1.6982 3.7632,-1.2649 1.7934,0.4333 3.2368,-0.4851 3.2368,-0.4851 0.175,1.1816 0.0294,2.625 -1.0206,3.9088 0,0 0.7581,0.525 0.7581,1.05 0,0.525 0.0875,1.3125 -0.7,2.1 -0.7875,0.7875 -3.85,0.875 -4.725,0 -0.875,-0.875 -0.875,-1.2831 -0.875,-1.8669 0,-0.5838 0.4081,-0.875 0.875,-1.3419 -0.7581,-0.4081 -1.7493,-1.6625 -1.3125,-2.1 z"
+       oryx:anchors="left top" />
+    <rect
+       height="80"
+       id="PACKAGE_SEND"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="1496.142"
+       y="408.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2background);stroke:#000000;stroke-width:1"
+       inkscape:label="#PACKAGE_SEND" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2text_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="1546.142"
+       y="448.513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-12"
+         x="1546.142"
+         y="448.513"
+         id="tspan974">remove<v:newlineChar />
+</tspan>
+      <tspan
+         dy="6"
+         x="1546.142"
+         y="448.513"
+         id="tspan976">customer<v:newlineChar />
+</tspan>
+      <tspan
+         dy="24"
+         x="1546.142"
+         y="448.513"
+         id="tspan978">contact</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#f4f6f7;stroke:#000000;stroke-width:0.69999999"
+       id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2userTaskpath"
+       d="m 1502.1515,431.0299 h 16.8581 v -5.4831 c 0,0 -1.6331,-2.7419 -4.9581,-3.6169 h -6.475 c -3.0919,0.9331 -5.4831,4.025 -5.4831,4.025 z"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2userTaskpath2"
+       d="m 1505.942,428.113 v 2.8"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999"
+       id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2userTaskpath3"
+       d="m 1515.742,428.113 v 2.8"
+       oryx:anchors="left top" />
+    <circle
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#000000;stroke-width:0.69999999"
+       r="3.7918999"
+       id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2userTaskcircle"
+       cy="417.61301"
+       cx="1510.842"
+       oryx:anchors="left top" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;opacity:1;fill:#f0eff0;stroke:#000000;stroke-width:0.69999999"
+       id="sid-9230bd8b-f2d9-45f5-ae05-1c2e474c87d2userTaskpath4"
+       d="m 1507.3721,419.0711 c 0,0 1.9698,-1.6982 3.7632,-1.2649 1.7934,0.4333 3.2368,-0.4851 3.2368,-0.4851 0.175,1.1816 0.029,2.625 -1.0206,3.9088 0,0 0.7581,0.525 0.7581,1.05 0,0.525 0.088,1.3125 -0.7,2.1 -0.7875,0.7875 -3.85,0.875 -4.725,0 -0.875,-0.875 -0.875,-1.2831 -0.875,-1.8669 0,-0.5838 0.4081,-0.875 0.875,-1.3419 -0.7581,-0.4081 -1.7493,-1.6625 -1.3125,-2.1 z"
+       oryx:anchors="left top" />
+    <circle
+       cx="1120.936"
+       cy="220.399"
+       id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0bg_frame"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0background);stroke:#000000;stroke-width:1;stroke-dasharray:5.5, 3" />
+    <circle
+       cx="1120.936"
+       cy="220.399"
+       display="inherit"
+       id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0frame2"
+       r="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:#ffffff;stroke:#000000;stroke-width:1" />
+    <circle
+       cx="1120.936"
+       cy="220.399"
+       id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0frame2_non_interrupting"
+       r="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:4.5, 3" />
+    <circle
+       cx="1120.936"
+       cy="220.399"
+       display="inherit"
+       id="TWO_WEEKS_PAST_"
+       r="15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:none;stroke:#000000;stroke-width:1"
+       inkscape:label="#TWO_WEEKS_PAST_" />
+    <rect
+       height="16"
+       id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0rect1"
+       width="16"
+       x="1112.936"
+       y="212.399"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:1" />
+    <path
+       d="m 1114.936,214.399 h 12 m -12,4 h 12 m -12,4 h 12 m -12,4 h 12"
+       id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0path1"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-edf94807-2ee0-40f1-975f-fd6ec49bdcc0text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="1128.9407"
+       y="233.39668"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="1128.9407"
+         y="233.39668"
+         id="tspan1023">maximum<v:newlineChar />
+</tspan>
+      <tspan
+         dy="36"
+         x="1128.9407"
+         y="233.39668"
+         id="tspan1025">reminder<v:newlineChar />
+</tspan>
+      <tspan
+         dy="54"
+         x="1128.9407"
+         y="233.39668"
+         id="tspan1027">reached</tspan>
+    </text>
+    <rect
+       height="80"
+       id="REMINDER_REACHED"
+       oryx:resize="vertical horizontal"
+       rx="10"
+       ry="10"
+       width="100"
+       x="1217.678"
+       y="180.23199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-9d86e698-10ab-45b2-a9d1-0d3aed3a9ea0background);stroke:#000000;stroke-width:1"
+       inkscape:label="#REMINDER_REACHED" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-9d86e698-10ab-45b2-a9d1-0d3aed3a9ea0text_frame"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-9d86e698-10ab-45b2-a9d1-0d3aed3a9ea0text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="94"
+       x="1267.678"
+       y="220.23199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="-3"
+         x="1267.678"
+         y="220.23199"
+         id="tspan1104">cancel<v:newlineChar />
+</tspan>
+      <tspan
+         dy="15"
+         x="1267.678"
+         y="220.23199"
+         id="tspan1106">order</tspan>
+    </text>
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-9d86e698-10ab-45b2-a9d1-0d3aed3a9ea0sendTaskpath"
+       d="m 1225.678,191.232 v 10 h 16 v -10 l -8,6 z"
+       oryx:anchors="left top" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:#000000;stroke:#ffffff;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="sid-9d86e698-10ab-45b2-a9d1-0d3aed3a9ea0sendTaskpath2"
+       d="m 1224.678,190.232 9,7 9,-7 z"
+       oryx:anchors="left top" />
+    <circle
+       cx="1660.9139"
+       cy="220.23199"
+       id="REMOVED_CONTACT"
+       r="14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-62d0245e-1ab8-43b2-b879-791be83728d2background);stroke:#000000;stroke-width:3"
+       inkscape:label="#REMOVED_CONTACT" />
+    <text
+       oryx:align="center top"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-62d0245e-1ab8-43b2-b879-791be83728d2text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="1660.9139"
+       y="236.23199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="18"
+         x="1660.9139"
+         y="236.23199"
+         id="tspan1143">order canceled</tspan>
+    </text>
+    <path
+       oryx:anchors="bottom left top right"
+       d="m 1570.622,303.34 c 20.013,0 31.292,3.05 31.292,5.729 0,2.678 0,45.096 0,48.244 0,3.148 -16.42,6.2 -31.388,6.2 -14.968,0 -30.613,-2.955 -30.613,-6.298 0,-3.342 0,-45.728 0,-48.05 0,-2.322 10.697,-5.825 30.709,-5.825 z"
+       id="sid-d7fcd569-f802-4695-bb6d-3feb74bacc0fbg_frame"
+       oryx:resize="vertical horizontal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:url(#sid-d7fcd569-f802-4695-bb6d-3feb74bacc0fbackground);stroke:#000000"
+       inkscape:connector-curvature="0" />
+    <path
+       oryx:anchors="left right"
+       d="m 1601.914,318.368 c 0,1.986 -3.62,6.551 -31.267,6.551 -27.646,0 -30.734,-4.686 -30.734,-6.454 m 0,-4.65 c 0,1.769 3.088,6.455 30.734,6.455 27.647,0 31.267,-4.565 31.267,-6.551 m -62.001,-4.554 c 0,2.35 3.088,6.455 30.734,6.455 27.647,0 31.267,-3.912 31.267,-6.552 m 0,0.001 v 4.844 m -61.977,-4.844 v 4.844 m 61.977,-0.194 v 4.844 m -61.977,-4.844 v 4.844"
+       id="sid-d7fcd569-f802-4695-bb6d-3feb74bacc0fbg_frame2"
+       oryx:resize="vertical"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000" />
+    <text
+       oryx:align="left middle"
+       oryx:anchors="right"
+       font-size="18"
+       oryx:fontSize="18"
+       id="sid-d7fcd569-f802-4695-bb6d-3feb74bacc0ftext_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="-1"
+       x="1606.913"
+       y="334.34"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="6"
+         x="1606.913"
+         y="334.34"
+         id="tspan1177">customerDB</tspan>
+    </text>
+    <rect
+       display="inherit"
+       height="37.373001"
+       id="sid-65894c41-190b-4547-914a-474f1db3b087c"
+       oryx:resize="vertical horizontal"
+       width="1699.988"
+       x="27"
+       y="25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:url(#sid-65894c41-190b-4547-914a-474f1db3b087background);stroke:#000000" />
+    <rect
+       display="inherit"
+       height="37.373001"
+       id="sid-65894c41-190b-4547-914a-474f1db3b087border"
+       oryx:resize="vertical horizontal"
+       width="1699.988"
+       x="27"
+       y="25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;display:inherit;fill:none;stroke:#000000;stroke-width:1" />
+    <text
+       oryx:align="center middle"
+       oryx:fittoelem="sid-65894c41-190b-4547-914a-474f1db3b087border"
+       font-size="24"
+       oryx:fontSize="24"
+       id="sid-65894c41-190b-4547-914a-474f1db3b087text_name"
+       letter-spacing="-0.01px"
+       oryx:textWidth="1699.988"
+       x="876.99402"
+       y="43.687"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:24px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt">
+      <tspan
+         dy="9"
+         x="876.99402"
+         y="43.687"
+         id="tspan1245">Customer</tspan>
+    </text>
+    <path
+       d="m 298.025,343.731 44.588,0.193"
+       id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6start_shadow);marker-end:url(#sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6end_shadow)" />
+    <path
+       d="m 298.025,343.731 44.588,0.193"
+       id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6start);marker-end:url(#sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="334.43781"
+       x="307.51001"
+       transform="rotate(0.248)"
+       oryx:textWidth="-1"
+       oryx:rotate="0.248"
+       letter-spacing="-0.01px"
+       id="sid-8c7f5195-fc39-4b5b-bb4b-6245ae341ed6text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="M 441.787,229.013 V 62.873"
+       id="sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-start:url(#sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1start);marker-end:url(#sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="433.78699"
+       x="-145.94299"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-d294b4d7-d5fe-45e4-aee8-48bb20fe0cd1text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 836.5,344 57.717,0.01"
+       id="sid-754e464e-9c98-42bf-93c6-df28b6680230bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-754e464e-9c98-42bf-93c6-df28b6680230start_shadow);marker-end:url(#sid-754e464e-9c98-42bf-93c6-df28b6680230end_shadow)" />
+    <path
+       d="m 836.5,344 57.717,0.01"
+       id="sid-754e464e-9c98-42bf-93c6-df28b6680230bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-754e464e-9c98-42bf-93c6-df28b6680230start);marker-end:url(#sid-754e464e-9c98-42bf-93c6-df28b6680230end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="335.86859"
+       x="844.5564"
+       transform="rotate(0.009)"
+       oryx:textWidth="-1"
+       oryx:rotate="0.009"
+       letter-spacing="-0.01px"
+       id="sid-754e464e-9c98-42bf-93c6-df28b6680230text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="M 137.525,62.873 V 328.492"
+       id="sid-ed610013-e345-449c-8f91-3dea26bae3f6bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-start:url(#sid-ed610013-e345-449c-8f91-3dea26bae3f6start);marker-end:url(#sid-ed610013-e345-449c-8f91-3dea26bae3f6end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="129.52499"
+       x="-195.68201"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="-90"
+       letter-spacing="-0.01px"
+       id="sid-ed610013-e345-449c-8f91-3dea26bae3f6text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 934.213,344.013 h 45"
+       id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88bebg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-767cc133-c1e6-4b36-b306-a9cd06ed88bestart_shadow);marker-end:url(#sid-767cc133-c1e6-4b36-b306-a9cd06ed88beend_shadow)" />
+    <path
+       d="m 934.213,344.013 h 45"
+       id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88bebg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-767cc133-c1e6-4b36-b306-a9cd06ed88bestart);marker-end:url(#sid-767cc133-c1e6-4b36-b306-a9cd06ed88beend)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="336.013"
+       x="942.21301"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-767cc133-c1e6-4b36-b306-a9cd06ed88betext_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="M 1020.436,187.284 H 914.713 v 136.229"
+       id="sid-e640c78d-5863-4836-8e73-79d8a5bed944bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-e640c78d-5863-4836-8e73-79d8a5bed944start_shadow);marker-end:url(#sid-e640c78d-5863-4836-8e73-79d8a5bed944end_shadow)" />
+    <path
+       d="M 1020.436,187.284 H 914.713 v 136.229"
+       id="sid-e640c78d-5863-4836-8e73-79d8a5bed944bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-e640c78d-5863-4836-8e73-79d8a5bed944start);marker-end:url(#sid-e640c78d-5863-4836-8e73-79d8a5bed944end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="179.28401"
+       x="1012.436"
+       oryx:textWidth="-1"
+       letter-spacing="-0.01px"
+       id="sid-e640c78d-5863-4836-8e73-79d8a5bed944text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="right bottom" />
+    <path
+       d="M 786,303.492 V 62.873"
+       id="sid-17f616db-c855-44b9-bdf5-d08c29bad54abg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-start:url(#sid-17f616db-c855-44b9-bdf5-d08c29bad54astart);marker-end:url(#sid-17f616db-c855-44b9-bdf5-d08c29bad54aend)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="778"
+       x="-183.18202"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-17f616db-c855-44b9-bdf5-d08c29bad54atext_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 363.025,323.513 v -78.747 h 63.264"
+       id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-13b3a54f-1bd6-417b-a755-452e6479dd45start_shadow);marker-end:url(#sid-13b3a54f-1bd6-417b-a755-452e6479dd45end_shadow)" />
+    <path
+       d="m 363.025,323.513 v -78.747 h 63.264"
+       id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-13b3a54f-1bd6-417b-a755-452e6479dd45start);marker-end:url(#sid-13b3a54f-1bd6-417b-a755-452e6479dd45end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="355.02499"
+       x="-315.513"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-13b3a54f-1bd6-417b-a755-452e6479dd45text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom">
+      <tspan
+         id="tspan1434"
+         y="355.02499"
+         x="-315.513"
+         dy="0">no</tspan>
+    </text>
+    <path
+       d="m 264.735,303.013 18.179,-42.781"
+       id="sid-47e80f1d-6180-4c59-9d16-3b70d5915088bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-47e80f1d-6180-4c59-9d16-3b70d5915088end)" />
+    <text
+       y="356.15323"
+       x="-152.10382"
+       transform="rotate(-66.978)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="293.022"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-47e80f1d-6180-4c59-9d16-3b70d5915088name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 274.821,384.013 69.968,103.813"
+       id="sid-867e8d3d-1b16-4565-8a57-9825ac95086cbg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-867e8d3d-1b16-4565-8a57-9825ac95086cend)" />
+    <text
+       y="-19.273102"
+       x="534.62915"
+       transform="rotate(56.021)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="56.021"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-867e8d3d-1b16-4565-8a57-9825ac95086cname"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 153.024,343.924 44.001,-0.191"
+       id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fbg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fstart_shadow);marker-end:url(#sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fend_shadow)" />
+    <path
+       d="m 153.024,343.924 44.001,-0.191"
+       id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fbg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fstart);marker-end:url(#sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32fend)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="336.58841"
+       x="159.5219"
+       transform="rotate(-0.25)"
+       oryx:textWidth="-1"
+       oryx:rotate="359.75"
+       letter-spacing="-0.01px"
+       id="sid-e9c4d149-00e7-4fe9-9507-f65cda9bb32ftext_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="M 188.939,487.826 231.083,384.013"
+       id="sid-530d8509-f93f-4723-ab6a-7e92087468d1bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-530d8509-f93f-4723-ab6a-7e92087468d1end)" />
+    <text
+       y="352.55618"
+       x="-324.91147"
+       transform="rotate(-67.905)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="292.095"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-530d8509-f93f-4723-ab6a-7e92087468d1name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 694.687,343.683 40.813,0.138"
+       id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71start_shadow);marker-end:url(#sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71end_shadow)" />
+    <path
+       d="m 694.687,343.683 40.813,0.138"
+       id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71start);marker-end:url(#sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="333.32886"
+       x="703.8457"
+       transform="rotate(0.194)"
+       oryx:textWidth="-1"
+       oryx:rotate="0.194"
+       letter-spacing="-0.01px"
+       id="sid-67fb57c5-b79d-4310-a42e-7dad24cbdf71text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="m 669.652,303.013 27.981,-44.5"
+       id="sid-3dd1eb2e-044f-44cc-ae99-b5ab77304537bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-3dd1eb2e-044f-44cc-ae99-b5ab77304537end)" />
+    <text
+       y="722.19208"
+       x="126.22176"
+       transform="rotate(-57.839)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="302.161"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-3dd1eb2e-044f-44cc-ae99-b5ab77304537name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 747.505,258.513 20.256,44.979"
+       id="sid-e535add6-1dbf-485b-b004-444a498ac135bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-e535add6-1dbf-485b-b004-444a498ac135end)" />
+    <text
+       y="-581.42761"
+       x="567.32086"
+       transform="rotate(65.756)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="65.756"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-e535add6-1dbf-485b-b004-444a498ac135name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 406.618,487.936 66.61,-103.923"
+       id="sid-35ef3f28-06cc-4196-a802-728ff360675abg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-35ef3f28-06cc-4196-a802-728ff360675aend)" />
+    <text
+       y="599.6358"
+       x="-129.65668"
+       transform="rotate(-57.342)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="302.658"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-35ef3f28-06cc-4196-a802-728ff360675aname"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="M 570.542,508.465 626.105,384.013"
+       id="sid-8ccd4735-023d-40b5-8a01-9b4956b8f7b5bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-8ccd4735-023d-40b5-8a01-9b4956b8f7b5end)" />
+    <text
+       y="722.26581"
+       x="-163.5499"
+       transform="rotate(-65.941)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="294.059"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-8ccd4735-023d-40b5-8a01-9b4956b8f7b5name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 511.589,384.013 37.938,123.88"
+       id="sid-6f737c26-618a-44cd-a98e-6857fd7ade14bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-6f737c26-618a-44cd-a98e-6857fd7ade14end)" />
+    <text
+       y="-382.71698"
+       x="581.76477"
+       transform="rotate(72.973)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="72.973"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-6f737c26-618a-44cd-a98e-6857fd7ade14name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 1450.875,448.513 h 44.767"
+       id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-5b44983b-001d-4f98-8277-c9d79ad958e9start_shadow);marker-end:url(#sid-5b44983b-001d-4f98-8277-c9d79ad958e9end_shadow)" />
+    <path
+       d="m 1450.875,448.513 h 44.767"
+       id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-5b44983b-001d-4f98-8277-c9d79ad958e9start);marker-end:url(#sid-5b44983b-001d-4f98-8277-c9d79ad958e9end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="440.51303"
+       x="1458.875"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-5b44983b-001d-4f98-8277-c9d79ad958e9text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="m 1596.642,448.513 h 48.772"
+       id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4start_shadow);marker-end:url(#sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4end_shadow)" />
+    <path
+       d="m 1596.642,448.513 h 48.772"
+       id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4start);marker-end:url(#sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="440.51303"
+       x="1604.642"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-6b8f46e4-a036-40f8-92c3-6ffc03ce0bc4text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="M 1400.375,408.013 V 62.873"
+       id="sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-start:url(#sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2start);marker-end:url(#sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="1392.375"
+       x="-235.44301"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-c0567efe-1ca5-450b-b5b9-09633d6bccf2text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 549.687,343.513 h 44"
+       id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1abg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-9dc7a355-cb18-4b9a-b823-c04177203a1astart_shadow);marker-end:url(#sid-9dc7a355-cb18-4b9a-b823-c04177203a1aend_shadow)" />
+    <path
+       d="m 549.687,343.513 h 44"
+       id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1abg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-9dc7a355-cb18-4b9a-b823-c04177203a1astart);marker-end:url(#sid-9dc7a355-cb18-4b9a-b823-c04177203a1aend)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="335.513"
+       x="557.68604"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-9dc7a355-cb18-4b9a-b823-c04177203a1atext_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="m 999.713,363.513 v 84.521 h 161.697"
+       id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90start_shadow);marker-end:url(#sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90end_shadow)" />
+    <path
+       d="m 999.713,363.513 v 84.521 h 161.697"
+       id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90start);marker-end:url(#sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="991.71301"
+       x="-371.513"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="-90"
+       letter-spacing="-0.01px"
+       id="sid-9d82916e-cc0b-4e86-b8d0-7dc28c9f6d90text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="right bottom" />
+    <path
+       d="m 1317.41,448.513 h 32.465"
+       id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-ca3395c3-18ff-4b33-a288-df9a710edb92start_shadow);marker-end:url(#sid-ca3395c3-18ff-4b33-a288-df9a710edb92end_shadow)" />
+    <path
+       d="m 1317.41,448.513 h 32.465"
+       id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-ca3395c3-18ff-4b33-a288-df9a710edb92start);marker-end:url(#sid-ca3395c3-18ff-4b33-a288-df9a710edb92end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="440.51303"
+       x="1325.41"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-ca3395c3-18ff-4b33-a288-df9a710edb92text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="m 1136.436,220.381 80.742,-0.092"
+       id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982bbg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-ef54f161-0227-4c1b-9a38-57ea2b56982bstart_shadow);marker-end:url(#sid-ef54f161-0227-4c1b-9a38-57ea2b56982bend_shadow)" />
+    <path
+       d="m 1136.436,220.381 80.742,-0.092"
+       id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982bbg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-ef54f161-0227-4c1b-9a38-57ea2b56982bstart);marker-end:url(#sid-ef54f161-0227-4c1b-9a38-57ea2b56982bend)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="213.6701"
+       x="1144.1853"
+       transform="rotate(-0.065)"
+       oryx:textWidth="-1"
+       oryx:rotate="359.935"
+       letter-spacing="-0.01px"
+       id="sid-ef54f161-0227-4c1b-9a38-57ea2b56982btext_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="m 1318.178,221.16916 h 327.236"
+       id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:3.18287206;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157start);marker-end:url(#sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="212.23201"
+       x="1326.178"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-4cc318b7-5c6b-4edc-a6ce-845e957bb157text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="M 1267.678,179.732 V 62.873"
+       id="sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8dbg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-start:url(#sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8dstart);marker-end:url(#sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8dend)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="1259.678"
+       x="-121.30203"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-894a3d02-149a-46dc-9dd0-92a2a9f79e8dtext_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="212.23201"
+       x="1556.384"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-0d38c027-ba53-41bf-99cb-7192c3a74d43text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <text
+       y="-1347.4596"
+       x="827.81366"
+       transform="rotate(68.655)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="68.655"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-d7f0729a-cd58-4d4d-8428-8817f73cc9f5name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 1554.698,408.013 9.669,-45.767"
+       id="sid-7fc16892-b90d-4fac-844b-ca9fdf4d5ef1bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-7fc16892-b90d-4fac-844b-ca9fdf4d5ef1end)" />
+    <text
+       y="1599.459"
+       x="-54.457581"
+       transform="rotate(-78.071)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="281.929"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-7fc16892-b90d-4fac-844b-ca9fdf4d5ef1name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="M 1176.91,62.873 V 432.534"
+       id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-start:url(#sid-6e287ac1-e8de-4253-ab34-eb2a857b7358start);marker-end:url(#sid-6e287ac1-e8de-4253-ab34-eb2a857b7358end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="1168.91"
+       x="-247.70299"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="-90"
+       letter-spacing="-0.01px"
+       id="sid-6e287ac1-e8de-4253-ab34-eb2a857b7358text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 1070.936,271.784 v -44"
+       id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afbg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-8464dd9a-c6e5-47ea-af50-7bfe258727afstart_shadow);marker-end:url(#sid-8464dd9a-c6e5-47ea-af50-7bfe258727afend_shadow)" />
+    <path
+       d="m 1070.936,271.784 v -44"
+       id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727afbg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-8464dd9a-c6e5-47ea-af50-7bfe258727afstart);marker-end:url(#sid-8464dd9a-c6e5-47ea-af50-7bfe258727afend)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="1062.936"
+       x="-263.78397"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-8464dd9a-c6e5-47ea-af50-7bfe258727aftext_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="m 999.713,323.513 v -36.229 h 55.723"
+       id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-84532a8e-46ac-4f1b-81b4-f94a557743f3start_shadow);marker-end:url(#sid-84532a8e-46ac-4f1b-81b4-f94a557743f3end_shadow)" />
+    <path
+       d="m 999.713,323.513 v -36.229 h 55.723"
+       id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-84532a8e-46ac-4f1b-81b4-f94a557743f3start);marker-end:url(#sid-84532a8e-46ac-4f1b-81b4-f94a557743f3end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="991.71301"
+       x="-315.513"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-84532a8e-46ac-4f1b-81b4-f94a557743f3text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <path
+       d="M 1070.936,146.784 V 62.873"
+       id="sid-80f58568-651e-4a05-b69d-2bd7fea14b84bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-start:url(#sid-80f58568-651e-4a05-b69d-2bd7fea14b84start);marker-end:url(#sid-80f58568-651e-4a05-b69d-2bd7fea14b84end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="1062.936"
+       x="-104.82798"
+       transform="rotate(-90)"
+       oryx:textWidth="-1"
+       oryx:rotate="270"
+       letter-spacing="-0.01px"
+       id="sid-80f58568-651e-4a05-b69d-2bd7fea14b84text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 381.961,343.42 h 66.726"
+       id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9start_shadow);marker-end:url(#sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9end_shadow)" />
+    <path
+       d="m 381.961,343.42 h 66.726"
+       id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9start);marker-end:url(#sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="335.42001"
+       x="389.96103"
+       oryx:textWidth="-1"
+       oryx:rotate="360"
+       letter-spacing="-0.01px"
+       id="sid-89fb3dbe-324f-4ba7-8c5b-229e3a97b9f9text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom">
+      <tspan
+         id="tspan2043"
+         y="335.42001"
+         x="389.96103"
+         dy="0">yes</tspan>
+    </text>
+    <path
+       d="m 140.111,359.275 21.752,128.551"
+       id="sid-9556bf22-2c86-474d-b4ef-c843427b353dbg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3, 4;marker-end:url(#sid-9556bf22-2c86-474d-b4ef-c843427b353dend)" />
+    <text
+       y="-84.206757"
+       x="442.80399"
+       transform="rotate(80.396)"
+       oryx:textWidth="-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:9px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0pt"
+       oryx:rotate="80.396"
+       oryx:offsetTop="6"
+       letter-spacing="-0.01px"
+       id="sid-9556bf22-2c86-474d-b4ef-c843427b353dname"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="midtop"
+       oryx:align="center bottom" />
+    <path
+       d="m 1192.41,448.116 24,0.128"
+       id="sid-da085975-085b-446e-8692-cdef587add38bg_frame_shadow"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.7;marker-start:url(#sid-da085975-085b-446e-8692-cdef587add38start_shadow);marker-end:url(#sid-da085975-085b-446e-8692-cdef587add38end_shadow)" />
+    <path
+       d="m 1192.41,448.116 24,0.128"
+       id="sid-da085975-085b-446e-8692-cdef587add38bg_frame"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:medium;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#sid-da085975-085b-446e-8692-cdef587add38start);marker-end:url(#sid-da085975-085b-446e-8692-cdef587add38end)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:18px;font-family:'Open Sans', Kanit, 'Ezra SIL', 'DejaVu Sans', HanaMinA, HanaMinB, sans-serif;letter-spacing:-0.01px;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0pt"
+       y="433.76218"
+       x="1202.7786"
+       transform="rotate(0.305)"
+       oryx:textWidth="-1"
+       oryx:rotate="0.305"
+       letter-spacing="-0.01px"
+       id="sid-da085975-085b-446e-8692-cdef587add38text_name"
+       oryx:fontSize="18"
+       font-size="18"
+       oryx:edgePosition="starttop"
+       oryx:align="left bottom" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.01202965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect573"
+       width="311.14032"
+       height="8.4140568"
+       x="1318.1646"
+       y="222.20932" />
+    <rect
+       y="211.4408"
+       x="1318.0541"
+       height="8.4140568"
+       width="311.14032"
+       id="rect575"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.01202965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00116229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1400.373,224.76529 0.036,2.39299"
+       id="path604"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00116229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1400.373,214.88033 0.036,2.39299"
+       id="path608"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
